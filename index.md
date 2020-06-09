@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Brand
 
-You can use the [editor on GitHub](https://github.com/koso-app/KOSO-Apps/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ 
 
-### Markdown
+The origin of KOSO - KOSO Co. created its own brand
+The reason KOSO came to the world was that an independent brand for research and development was deemed essential for marketing in the future, so we registered KOSO as our trademark in 1989. KOSO comes from two Japanese words -“idea” and “high speed”; “idea” here means creativity, and “high speed” means high performance - combining these two words means that we hope our company can use creativity to create high-performance products! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 
 
-```markdown
-Syntax highlighted code block
+## The spirit of KOSO
+ 
+KOSO wishes to establish quality, techniques, and service on the basis of integrity and trust – these represent the spirit of KOSO.
+We persist in keeping this attitude of not only producing high-
+quality products, but also pursuing the innovation of products
+and improvement of quality. Moreover, we look forward to
+bringing outstanding products to everyone.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+ 
 
-1. Numbered
-2. List
+ 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+  
+## The future of KOSO
+To pursue perfect design and quality in our products is our goal, so KOSO continually enhances our technology to spur ourselves forward because we strongly believe that brand image and product quality are equal to each other. Therefore, our company requires a very strict development and production process, and quality control of products. When we step onto the world stage, we expect to reach the target of high quality at the same time.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/koso-app/KOSO-Apps/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+KOSO will continue to develop more humane and innovative products in the future, and we promise to become the next number one in the world from Taiwan, another glory of Taiwan, and the pride of the Taiwanese.
