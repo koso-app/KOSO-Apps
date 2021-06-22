@@ -29,3 +29,5 @@ bringing outstanding products to everyone.
 To pursue perfect design and quality in our products is our goal, so KOSO continually enhances our technology to spur ourselves forward because we strongly believe that brand image and product quality are equal to each other. Therefore, our company requires a very strict development and production process, and quality control of products. When we step onto the world stage, we expect to reach the target of high quality at the same time.
 
 KOSO will continue to develop more humane and innovative products in the future, and we promise to become the next number one in the world from Taiwan, another glory of Taiwan, and the pride of the Taiwanese.
+
+
