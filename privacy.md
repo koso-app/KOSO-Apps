@@ -18,7 +18,7 @@ We may collect non-personal identification information about Users whenever they
 
 - KOSO products used
 
-  If you register your products for warranty or request customer support service from Apps, we will collect Personal Information to enable us to provide customer support services to you, including your name, email address, and other information as applicable. We may also collect other information about HUDWAY products you own or Apps you use, such as the serial numbers, date of purchase, order details, and information related to a support or service issue, some of which might include Personal Information.
+  If you register your products for warranty or request customer support service from Apps, we will collect Personal Information to enable us to provide customer support services to you, including your name, email address, and other information as applicable. We may also collect other information about KOSO products you own or Apps you use, such as the serial numbers, date of purchase, order details, and information related to a support or service issue, some of which might include Personal Information.
 
 - Vehicle onboard data
 
@@ -74,11 +74,11 @@ We don't provide any thirty-party advertising in Apps. We recommend the latest K
 
 ## Conform with legal requirements
 
-KOSO Apps may also provide, distribute or disclose your Personal Information to third parties where HUDWAY reasonably believes that it is required to do so to conform to legal requirements, to protect and defend the rights or property of HUDWAY, to enforce this Privacy Policy or to protect the interests of its users or customers.
+KOSO Apps may also provide, distribute or disclose your Personal Information to third parties where KOSO reasonably believes that it is required to do so to conform to legal requirements, to protect and defend the rights or property of KOSO, to enforce this Privacy Policy or to protect the interests of its users or customers.
 
-HUDWAY may also be forced to disclose your Personal Information for the purposes of national security or other issues of public importance.
+KOSO may also be forced to disclose your Personal Information for the purposes of national security or other issues of public importance.
 
-HUDWAY may distribute your Personal Information within its affiliate companies, for the purposes set out in this Privacy Policy. We may also use Personal Information to resolve disputes, collect fees, and troubleshoot problems or to prevent potentially prohibited or illegal activities, and enforce our Terms of Use.
+KOSO may distribute your Personal Information within its affiliate companies, for the purposes set out in this Privacy Policy. We may also use Personal Information to resolve disputes, collect fees, and troubleshoot problems or to prevent potentially prohibited or illegal activities, and enforce our Terms of Use.
 
 ## Changes to this privacy policy
 
