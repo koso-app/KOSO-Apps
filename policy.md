@@ -16,7 +16,7 @@ We may collect non-personal identification information about Users whenever they
 - Location information and trip history
   If you subscribe to KOSO dashboard-related Apps, such as K Link or K Race, and set up an account, KOSO may collect location data from your device or connected products as well as the history of your completed trips while using the Apps.
 
-- Koso products used
+- KOSO products used
 
   If you register your products for warranty or request customer support service from Apps, we will collect Personal Information to enable us to provide customer support services to you, including your name, email address, and other information as applicable. We may also collect other information about HUDWAY products you own or Apps you use, such as the serial numbers, date of purchase, order details, and information related to a support or service issue, some of which might include Personal Information.
 
