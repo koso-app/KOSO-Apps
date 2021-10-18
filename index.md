@@ -36,5 +36,5 @@ KOSO will continue to develop more humane and innovative products in the future,
 
 - [Instagram](https://www.instagram.com/kosotaiwan.offical/)
 
-- [Email to iosapp@koso.com.tw](mailto:iosapp@koso.com.tw)
+- Email to iosapp@koso.com.tw
 
