@@ -8,7 +8,7 @@ K Race 是一款能協助汽機車駕駛進行車輛調整的數據監視工具�
 
 此App設計為賽道使用，請勿在一般道路上使用，並於使用時遵守安全規定。
 
-## Powertry
+## 硬體設備
 
 
 
@@ -23,19 +23,19 @@ K Race 是一款能協助汽機車駕駛進行車輛調整的數據監視工具�
 
 ## K Race App
 
-1. 車庫
+### 車庫
 
 建立與維護車輛訊息，根據車輛數據不同，會影響實測測驗結果，例如輪馬力計算數據推估。車輛數據包含了車輛自訂名稱、車輛品牌、車輛型號、車輛排氣量(cc數)、總重量(車重+駕駛人重量)。
 
 ![Powertry](./image/photo-garage.png)
 
-2. 應用程式
+### 應用程式
 
 K Race 提供了數個效能計算機，包含馬力輸出計算機、排氣量計算機、齒輪比計算機、性能表現計算機。透過這些工具可以協助駕駛人或車輛工程師，在性能調教時提供有用的參考數據。
 
 ![Powertry](./image/photo-utilities.png)
 
-3. 性能測試
+### 性能測試
 
 在性能測試當中，分成速度和距離測試項目，例如0-100km/h的加速度測試、50-0km/h的減速度測試以及1000公尺距離測試等。依需求使用者可以自己建立所需要的測試項目。
 
@@ -52,8 +52,72 @@ K Race 提供了數個效能計算機，包含馬力輸出計算機、排氣量�
 
 ![Powertry](./image/photo-ready.png)
 
-4. 歷史紀錄
+### 歷史紀錄
 
  歷史紀錄提供了過去測試過的所有紀錄，提供了速度、距離資料分段的分析表，並可以以曲線圖的方式展示最多三筆資料的比較，用以作為數據分析和性能調教的參考。
 
 ![Powertry](./image/photo-history.png)
+
+## 開始您的第一次性能測試
+
+### 建立車輛
+
+建立您的第一輛車，並填入基本資料，排氣量和重量將會運用在輪馬力的估計運算當中，車輛的名稱則用於歷史資料篩選排序之用。
+
+![Powertry](./image/garage1.png)
+
+![Powertry](./image/garage2.png)
+
+### 建立一個100公尺性能測試
+
+您可以建立一個預設的測驗項目，或是建立一個自己專用的測驗項目。按下畫面右方的+按鈕，來新增一個100公尺性能測試。
+
+![Powertry](./image/exam1.png)
+
+選擇速度區間測試或者距離測試
+
+![Powertry](./image/exam2.png)
+
+選擇我們剛建立好的模式，開始進行測驗
+
+![Powertry](./image/exam3.png)
+
+### 連線到Powertry 設備
+
+按下右側選擇連線裝置，會搜尋附近的POWERTRY裝置，選擇裝置後開始連線
+
+![Powertry](./image/connect1.png)
+
+連上後畫面顯示目前裝置狀態，等到裝置訊號穩定時，會自動進入下個畫面
+
+![Powertry](./image/connect2.png)
+
+自動偵測下個測驗開關可以讓測試者不需操作手機按下READY，即可重複進行測試。若選擇關閉自動偵測下一趟，則完成一次測試會回到這個畫面，需按下READY以繼續下移輪測驗。
+
+![Powertry](./image/connect3.png)
+
+### 開始測驗
+
+開始測試時，距離測試分為三個階段，首先需靜止等待出現 Ready to go 時，可以開始催動油門前進
+
+![Powertry](./image/runtime2.png)
+
+啟動後App自動偵測到車輛移動開始記錄數據，持續前進直到目標距離(在這個例子為100公尺)，此階段為Recording
+
+![Powertry](./image/runtime3.png)
+
+到了目標距離後，App會紀錄該次測試結果，此階段為Initialing，等待靜止後回到 Ready to go ，得以進行下一輪測試
+
+![Powertry](./image/runtime1.png)
+
+### 檢視結果
+
+結速性能測驗後，可以在歷史資料處找到過去的測試結果
+
+![Powertry](./image/photo-history.png)
+
+![Powertry](./image/history1.png)
+
+![Powertry](./image/history2.png)
+
+![Powertry](./image/history3.png)
