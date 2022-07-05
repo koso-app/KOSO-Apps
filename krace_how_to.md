@@ -116,7 +116,11 @@ K Race 提供了數個效能計算機，包含馬力輸出計算機、排氣量�
 
 ![Powertry](./image/photo-history.png)
 
+透過Sort by date, Sort by vehicle, Sort by condition 找到先前的測試成績
+
 ![Powertry](./image/history1.png)
+
+查看Distance, speed 分段資料，按下Diagram查看曲線圖
 
 ![Powertry](./image/history2.png)
 
