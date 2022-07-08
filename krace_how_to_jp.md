@@ -14,7 +14,7 @@ Kレースでは、0-100スピード試験や400メートルの距離試験な�
 
 
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/tutorial.png)
+![Powertry](./image/tutorial.png)
 
 1. 電源オン：ボタンを長押しして電源をオンにします
 2. 充電インターフェース：Powertryには充電用のマイクロUSBがあり
@@ -30,23 +30,23 @@ Kレースでは、0-100スピード試験や400メートルの距離試験な�
 
 ガレージでは、名前、モデル、重量、排気量などの詳細を含むさまざまな車両を確立できます。このメタデータは、パフォーマンスの比較と分析に使用できます。
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/photo-garage.png)
+![Powertry](./image/photo-garage.png)
 
 ### Utilities
 
 ユーティリティ機能では、馬力計算機、排気量計算機、ギアレート計算機、パフォーマンス計算機、理論速度が提供され、パフォーマンス調整時に関連データを計算できます。
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/photo-utilities.png)
+![Powertry](./image/photo-utilities.png)
 
 ### Racing exam
 
 試験の2種類は、スピードと距離ですレース試験機能に含まれています。いくつかのテストでは、0 - 1000メートルの加速や0 - 100キロ/ hのような場合は、適切なビルドの試験で利用可能な場合は、ユーザーがカスタマイズの試験速度や距離条件に基づいて追加することができます。
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/photo-exam.png)
+![Powertry](./image/photo-exam.png)
 
 プロジェクトを選択すると、ユーザーはbluetoothを介してPOWERTRYに接続できます。 この場合、権限要求は許可を求めるプロンプトを表示することがあります。 bluetooth通信には青歯と精密位置決め権限が必要です。
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/photo-connect.png)
+![Powertry](./image/photo-connect.png)
 
 
 
@@ -54,7 +54,7 @@ Kレースでは、0-100スピード試験や400メートルの距離試験な�
 
 履歴機能では、すべてのレコードがここにあり、日付、車両、または条件ごとに一覧表示できます。ここで、ユーザーはセグメント化されたテーブルまたはトレンドチャートによってすべてのデータを確認できます。  
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/photo-history.png)
+![Powertry](./image/photo-history.png)
 
 ## 最初の試験を開始します
 
@@ -64,35 +64,35 @@ Kレースでは、0-100スピード試験や400メートルの距離試験な�
 
 
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/garage1.png)
+![Powertry](./image/garage1.png)
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/garage2.png)
+![Powertry](./image/garage2.png)
 
 ### 100メートルの試験を作成する
 
 事前設定された試験を選択するか、適切な試験がない場合はカスタマイズされた試験を作成できます。画面右側の+ボタンを押して、100mのパフォーマンステストを追加します。
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/exam1.png)
+![Powertry](./image/exam1.png)
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/exam2.png)
+![Powertry](./image/exam2.png)
 
 試験を開始するために作成した試験を選択してください
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/exam3.png)
+![Powertry](./image/exam3.png)
 
 ### Powertryに接続する
 
 画面右側の「デバイスを選択」ボタンを押して、近くの電源をスキャンします。
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/connect1.png)
+![Powertry](./image/connect1.png)
 
 11を超える衛星信号ゲイン、10％のバッテリーレベル、14hzのリフレッシュレート、GPS、加速度センサーモジュールなど、Powertryのステータスがより安定するのを待つことは正常に機能します。
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/connect2.png)
+![Powertry](./image/connect2.png)
 
 「次の検査の自動検出」スイッチボタンを使用すると、画面に触れることなく、完了後に次の実行を自動開始できます。スイッチがオフの場合は、準備を押して次の試験を手動で開始する必要があります。
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/connect3.png)
+![Powertry](./image/connect3.png)
 
 ### 試験開始
 
@@ -100,28 +100,28 @@ Kレースでは、0-100スピード試験や400メートルの距離試験な�
 
 
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/runtime2.png)
+![Powertry](./image/runtime2.png)
 
 「Recording」フェーズでは、アプリは、定義された条件（この場合は100メートル）に到達した後、試験中にデータを記録し続けます
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/runtime3.png)
+![Powertry](./image/runtime3.png)
 
 この試験で定義された条件に達すると、アプリはレコードを生成し、速度を待って初期条件に戻ります。このフェーズは「初期化」です。速度が0に戻った後、フェーズは「準備完了」になります。
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/runtime1.png)
+![Powertry](./image/runtime1.png)
 
 ### レビューを記録する
 
 試験を完了すると、履歴から自分の記録を見つけることができます。
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/photo-history.png)
+![Powertry](./image/photo-history.png)
 
 ソートオプションを変更して、決定試験を検索およびチェックアウトすることができます。
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/history1.png)
+![Powertry](./image/history1.png)
 
 詳細データセグメントを確認し、DIAGRAMボタンを押してトレンドチャートを確認します。
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/history2.png)
+![Powertry](./image/history2.png)
 
-![Powertry](/Users/shawn/Documents/GitHub/KOSO-Apps/image/history3.png)
+![Powertry](./image/history3.png)
