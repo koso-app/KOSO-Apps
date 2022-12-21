@@ -8,7 +8,7 @@ K Race 是一款能協助汽機車駕駛進行車輛調整的數據監視工具�
 
 
 
-![說明影片](https://www.youtube.com/watch?v=jSAfbBRWP8c)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jSAfbBRWP8c/0.jpg)](https://www.youtube.com/watch?v=jSAfbBRWP8c)
 
 
 
