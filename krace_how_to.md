@@ -8,6 +8,10 @@ K Race 是一款能協助汽機車駕駛進行車輛調整的數據監視工具�
 
 
 
+![說明影片](https://www.youtube.com/watch?v=jSAfbBRWP8c)
+
+
+
 ## Powertry 硬體設備
 
 

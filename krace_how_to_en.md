@@ -6,7 +6,7 @@ K Race is a data monitoring tool that assists motor and car drivers in tuning ve
 In the performance test function, you can choose speed or distance test. For example, a 0-100 speed test or a distance test of 400 meters. Through the test, the performance and data of the current vehicle can be further understood, and the data can be further displayed in the form of segmented charts and graphs, so the driver can easily compare these data with each other and use them in performance tuning, and observe its performance. As a result, the K Race will be a great tool for performing performance tuning.
 In K Race, it has distance and speed exams such as a 0-100 speed exam or a distance exam of 400 meters. Through these exams, these result data can be presented as data tables and trend graphs. Users can easily compare these data with each other and use them in performance tuning, and observe their performance. As a result, the K Race will be a great tool for performance tuning.
 
-
+![說明影片](https://www.youtube.com/watch?v=jSAfbBRWP8c)
 
 ## Hardware
 
