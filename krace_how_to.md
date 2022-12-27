@@ -2,6 +2,8 @@
 
 [中文](https://koso-app.github.io/KOSO-Apps/krace_how_to)|[English](https://koso-app.github.io/KOSO-Apps/krace_how_to_en)|[日語](https://koso-app.github.io/KOSO-Apps/krace_how_to_jp)
 
+[服務條款](https://koso-app.github.io/KOSO-Apps/koso_service_terms_tw)|[隱私權聲明](https://koso-app.github.io/KOSO-Apps/policy)
+
 **此App設計為賽道使用，請勿在一般道路上使用，並於使用時遵守安全規定。**
 
 K Race 是一款能協助汽機車駕駛進行車輛調整的數據監視工具。藉由藍牙連接 Powertry 硬體裝置，可以相當有效率的監視行車數據。因為 Powertry 裝置內建了相當高效的GPS和陀螺儀模組，而能以相當高頻率的間隔來記錄資料，所以能提供非常精確有效的數值，相較於其他只使用手機GPS資料的App，其數據將準確許多。

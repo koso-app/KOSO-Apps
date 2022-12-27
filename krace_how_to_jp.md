@@ -2,7 +2,9 @@ Translated by Google
 
 # K Race 紹介
 
-[中文](https://koso-app.github.io/KOSO-Apps/krace_how_to)|[English](https://koso-app.github.io/KOSO-Apps/krace_how_to_en)|[日語](https://koso-app.github.io/KOSO-Apps/krace_how_to_jp)
+[中文](https://koso-app.github.io/KOSO-Apps/krace_how_to)|[English](https://koso-app.github.io/KOSO-Apps/krace_how_to_en)|[日語](https://koso-app.github.io/KOSO-Apps/krace_how_to_jp) 
+
+[服務條款](https://koso-app.github.io/KOSO-Apps/koso_service_terms_tw)|[隱私權聲明](https://koso-app.github.io/KOSO-Apps/policy)
 
 **★  このアプリは競馬場で使用するように設計されています。一般の道路や通りでは使用しないでください。安全規則に従うように注意してください。**
 
