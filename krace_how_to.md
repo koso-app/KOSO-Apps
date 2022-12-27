@@ -1,4 +1,6 @@
-# K Race 使用說明
+# K Race 使用說明 
+
+[中文](https://koso-app.github.io/KOSO-Apps/krace_how_to)|[English](https://koso-app.github.io/KOSO-Apps/krace_how_to_en)|[日語](https://koso-app.github.io/KOSO-Apps/krace_how_to_jp)
 
 **此App設計為賽道使用，請勿在一般道路上使用，並於使用時遵守安全規定。**
 

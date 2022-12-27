@@ -2,6 +2,8 @@ Translated by Google
 
 # K Race 紹介
 
+[中文](https://koso-app.github.io/KOSO-Apps/krace_how_to)|[English](https://koso-app.github.io/KOSO-Apps/krace_how_to_en)|[日語](https://koso-app.github.io/KOSO-Apps/krace_how_to_jp)
+
 **★  このアプリは競馬場で使用するように設計されています。一般の道路や通りでは使用しないでください。安全規則に従うように注意してください。**
 
 K Raceは、モーターと車のドライバーが車両のパフォーマンスを調整するのを支援するデータ監視ツールです。Bluetooth経由でKOSO Powertryデバイスに接続すると、運転データを効率的に監視できます。KOSO Powertryデバイスには、高効率のGPSおよびジャイロスコープモジュールが組み込まれており、比較的高い周波数間隔でデータを記録できるため、非常に正確で効果的な値を提供できます。携帯電話のGPSデータのみを使用する他のアプリと比較して、そのデータははるかに正確になります。
