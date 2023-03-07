@@ -1,6 +1,6 @@
 # K Lap user guide
 
-[中文](https://koso-app.github.io/KOSO-Apps/klap_how_to)|[English](https://koso-app.github.io/KOSO-Apps/klap_how_to_en)|[日語](https://koso-app.github.io/KOSO-Apps/klap_how_to_jp)
+[中文](https://app.koso.com.tw/KOSO-Apps/klap_how_to.html)|[English](https://koso-app.github.io/KOSO-Apps/klap_how_to_en.html)|[日語](https://koso-app.github.io/KOSO-Apps/klap_how_to_ja.html)
 
 K Lapは、AndroidとiOSの両方のシステムで使用できる、スマートフォン上で動作するアプリです。このアプリを使用することで、KOSO PowerTryデバイスに接続して周回タイマーやカスタムスタート/フィニッシュラインタイマーを実行することができます。K Lapを使用することで、車両競技のプロセスとデータをビデオで録画し、事後に再生したり、データを参照したりすることができます。
 

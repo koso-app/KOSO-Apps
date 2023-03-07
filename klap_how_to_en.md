@@ -1,6 +1,6 @@
 # K Lap user guide
 
-[中文](https://koso-app.github.io/KOSO-Apps/klap_how_to)|[English](https://koso-app.github.io/KOSO-Apps/klap_how_to_en)|[日語](https://koso-app.github.io/KOSO-Apps/klap_how_to_jp)
+[中文](https://koso-app.github.io/KOSO-Apps/klap_how_to)|[English](https://koso-app.github.io/KOSO-Apps/klap_how_to_en)|[日語](https://koso-app.github.io/KOSO-Apps/klap_how_to_ja)
 
 K Lap is a mobile app that supports both Android and iOS systems. It is used to connect with KOSO PowerTry device for lap timing and custom start/finish timing on your vehicle. Through K Lap, you can record your racing process and data as a video for playback and reference.
 
